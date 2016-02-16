@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidFlux-Helloworld</string>
+    <string name="action_settings">Settings</string>
+</resources>
